@@ -4,7 +4,7 @@ const currencies = require("./data/currencies.json");
 
 // Use the bitcoinTrades, etheriumTrades, and currencies variables above to solve these.
 // Round to two decimal places.
-// Testing 2
+// Testing 3
 // Issue: toFixed returns a string, so we have to convert it back to a number.
 // This is a helper function that rounds to two decimal plaes and converts that string back to a number.
 function roundNum(num) {}
